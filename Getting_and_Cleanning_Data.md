@@ -1,4 +1,4 @@
-# Getting & Cleanning Data
+# run_analysis.R
 Shawn Dong  
 October 13, 2016  
 
