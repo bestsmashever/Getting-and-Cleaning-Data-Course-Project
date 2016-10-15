@@ -1,5 +1,9 @@
 # Code Book
 
+# Summary
+The run_analysis.R is the source code that reshapes the data according to the project requirement. 
+The Output TidyData is the result of the R code. 
+
 # Identifiers
 * Subject ID - different subjects
 * Activity ID - different activities
