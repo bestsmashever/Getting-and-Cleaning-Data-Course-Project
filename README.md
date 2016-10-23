@@ -1,4 +1,4 @@
-# Please README
+# README
 
 # How files in the repo works
 
